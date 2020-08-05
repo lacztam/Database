@@ -1,0 +1,13 @@
+James,1950.05.22,High Street 5,male,1,1
+Mary,1967.9.25,Station Road 24,female,1,2
+John,2000.04.10,Main Street 81,male,0,3
+Patricia,2010.11.2,Park Road 99,female,0,4
+Elizabeth,2015.03.01,Church Road 16,female,0,5
+Robert,1970.06.20, London Road 20,male,1,6
+William,1950.05.22,Victoria Road 42,male,1,7
+Jennifer,1967.9.25,Green Lane 35,female,1,8
+David,2000.04.10,Manor Road 55,male,0,9
+Linda,2010.11.2,Park Avenue 87,female,0,10
+Barbara,2015.03.01,Kings Road 17,female,0,11
+Charles,1970.06.20,Highfield Road 156,male,1,12
+Thomas,1999.05.22.,Stanley Road 123,male,0,13
